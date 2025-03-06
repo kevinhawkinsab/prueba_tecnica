@@ -1,0 +1,50 @@
+.capitalize {
+    text-transform: capitalize;
+}
+
+.upper{
+    font-size: 10px;
+    color: gray;
+    text-transform: uppercase;
+}
+
+.stock {
+    display: flex;
+    color: green;
+    align-items: center;
+
+    svg {
+        font-size: 12px;
+        margin-right: 5px;
+    }
+}
+
+.img {
+    width: 100px;
+}
+
+.limited {
+    display: flex;
+    color: orange;
+    align-items: center;
+
+    svg {
+        font-size: 12px;
+        margin-right: 5px;
+    }
+}
+
+.out-of-stock {
+    display: flex;
+    color: red;
+    align-items: center;
+
+    svg {
+        font-size: 12px;
+        margin-right: 5px;
+    }
+}
+
+.css-1o9s3wi-MuiInputBase-input-MuiOutlinedInput-input {
+    height: 0.4em !important;
+}

@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Portfolio\\prueba_tecnica\\backend\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Portfolio\\prueba_tecnica\\backend\\backend\\backend\\Migrations\\20240724022200_First_Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Migrations\\20240724022200_First_Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A582D3E-F35E-4046-9F0D-05C948A275E3}|backend\\backend.csproj|d:\\portfolio\\prueba_tecnica\\backend\\backend\\backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A582D3E-F35E-4046-9F0D-05C948A275E3}|backend\\backend.csproj|solutionrelative:backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A582D3E-F35E-4046-9F0D-05C948A275E3}|backend\\backend.csproj|d:\\portfolio\\prueba_tecnica\\backend\\backend\\backend\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A582D3E-F35E-4046-9F0D-05C948A275E3}|backend\\backend.csproj|solutionrelative:backend\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A582D3E-F35E-4046-9F0D-05C948A275E3}|backend\\backend.csproj|d:\\portfolio\\prueba_tecnica\\backend\\backend\\backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A582D3E-F35E-4046-9F0D-05C948A275E3}|backend\\backend.csproj|solutionrelative:backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A582D3E-F35E-4046-9F0D-05C948A275E3}|backend\\backend.csproj|d:\\portfolio\\prueba_tecnica\\backend\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A582D3E-F35E-4046-9F0D-05C948A275E3}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A582D3E-F35E-4046-9F0D-05C948A275E3}|backend\\backend.csproj|d:\\portfolio\\prueba_tecnica\\backend\\backend\\backend\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A582D3E-F35E-4046-9F0D-05C948A275E3}|backend\\backend.csproj|solutionrelative:backend\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A582D3E-F35E-4046-9F0D-05C948A275E3}|backend\\backend.csproj|d:\\portfolio\\prueba_tecnica\\backend\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A582D3E-F35E-4046-9F0D-05C948A275E3}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240724022200_First_Migration.cs",
+              "DocumentMoniker": "D:\\Portfolio\\prueba_tecnica\\backend\\backend\\backend\\Migrations\\20240724022200_First_Migration.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\20240724022200_First_Migration.cs",
+              "ToolTip": "D:\\Portfolio\\prueba_tecnica\\backend\\backend\\backend\\Migrations\\20240724022200_First_Migration.cs",
+              "RelativeToolTip": "backend\\Migrations\\20240724022200_First_Migration.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:22:00.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Portfolio\\prueba_tecnica\\backend\\backend\\backend\\Models\\Dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Dto\\ProductDto.cs",
+              "ToolTip": "D:\\Portfolio\\prueba_tecnica\\backend\\backend\\backend\\Models\\Dto\\ProductDto.cs",
+              "RelativeToolTip": "backend\\Models\\Dto\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:43:11.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Portfolio\\prueba_tecnica\\backend\\backend\\backend\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Product.cs",
+              "ToolTip": "D:\\Portfolio\\prueba_tecnica\\backend\\backend\\backend\\Models\\Product.cs",
+              "RelativeToolTip": "backend\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:43:05.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Portfolio\\prueba_tecnica\\backend\\backend\\backend\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Portfolio\\prueba_tecnica\\backend\\backend\\backend\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAQwIwAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:45:30.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Portfolio\\prueba_tecnica\\backend\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "D:\\Portfolio\\prueba_tecnica\\backend\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T05:32:09.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Portfolio\\prueba_tecnica\\backend\\backend\\backend\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\Portfolio\\prueba_tecnica\\backend\\backend\\backend\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "backend\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T05:32:34.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Portfolio\\prueba_tecnica\\backend\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "D:\\Portfolio\\prueba_tecnica\\backend\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T05:31:50.727Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

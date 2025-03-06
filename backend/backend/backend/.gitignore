@@ -1,0 +1,193 @@
+# Build Folders (you can keep bin if you'd like, to store binaries)
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono auto generated)
+mono_crash.*
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Mac
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode/*
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/[Pp]ackages/repositories.config
+
+# Windows Azure Build Output
+csx/
+*.build.csdef
+
+# RIA/Silverlight projects
+Generated_Code/
+
+# Backup & report files from converting an old project file
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Business Intelligence projects
+*.rdl.data
+*.bim.layout
+*.bim_*.settings
+
+# Microsoft Fakes
+FakesAssemblies/
+
+# GhostDoc plugin setting file
+*.GhostDoc.xml
+
+# Docker
+docker-compose.override.yml
+docker-compose.*.yml
+.docker/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopReport.xml
+
+# Coverlet
+coverage*.json
+coverage*.xml
+coverage*.info
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# Azure Pipelines
+*.azcli
+
+# Rider
+.idea/
+*.sln.iml
+
+# Code analysis results
+*.sarif
+
+# JetBrains Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# local history for eclipse or idea
+.localhistory/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode/*
+
+# Tooling
+.vscode/
+.ionide/
+
+# Visual Studio Code (https://code.visualstudio.com/)
+.vscode/
+.history/
+
+# Cake
+# Uncomment if you are using it
+# tools/**
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# local NuGet cache directories
+**/packages/**/bin/
+**/packages/**/obj/
+*.nupkg
+
+# Styles
+*.css
+*.scss
+*.sass
+*.less
+
+# Backup files
+*.bak
+
+# Libman
+libman.json
+
+# Yarn
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+
+# Storybook files
+.storybook/
+
+# npm-debug.log
+npm-debug.log*
+
+# yarn-error.log
+yarn-error.log*
+
+# dotenv environment variables file
+.env
+
+# dotenv files
+*.env
+.env.*
+
+# Ignore by folder name
+**/node_modules/
+
+# Ignore by file name
+package-lock.json
+pnpm-lock.yaml
+.yarn-integrity
